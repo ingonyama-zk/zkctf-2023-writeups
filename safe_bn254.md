@@ -5,4 +5,3 @@ Description
 
 ## Solution
 Solution
-[title](https://www.ingonyama.com/) 
