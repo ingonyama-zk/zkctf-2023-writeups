@@ -29,5 +29,5 @@ Below you will find write-ups submitted by some of the participants
  9. [ZK Rescue Part 2](zk rescue part 2.md)
  10. [Lost Funds](lost funds.md)
  11. [The Lost Relic](the lost relic.md)
- 12. [The Power of iNTEgers](the power of integers.md)
+ 12. [The Power of iNTEgers](The Power of iNTEgers.md)
  13. [Umculo](umculo.md)
