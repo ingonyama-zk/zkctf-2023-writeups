@@ -18,4 +18,16 @@ Below you will find write-ups submitted by some of the participants
 
 ## Challenge Write-ups
 
- 1. [Safe bn254](safe_bn254.md)
+ 1. [It is over 9000!](It is over 9000.md) 
+ 2. [Safe bn254](safe_bn254.md)
+ 3. [Zokclub](zokclub.md)
+ 4. [Zok club - as it should've been](Zok club - as it should've been.md) 
+ 5. [A Tale of two keys](A Tale of two keys.md) 
+ 6. [The Day of Sagittarius IV](The Day of Sagittarius IV.md)
+ 7. [Loki's Vault](Loki's Vault.md)
+ 8. [Operation ZK Rescue](Operation ZK Rescue.md)
+ 9. [ZK Rescue Part 2](ZK Rescue Part 2.md)
+ 10. [Lost Funds](Lost Funds.md)
+ 11. [The Lost Relic](The Lost Relic.md)
+ 12. [The Power of iNTEgers](The Power of iNTEgers.md)
+ 13. [Umculo](Umculo.md)
