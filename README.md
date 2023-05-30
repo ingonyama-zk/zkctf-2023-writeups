@@ -1,10 +1,14 @@
 # ZK CTF - May '23 
 
 ## Winners
-1st place: [ChainLight](https://twitter.com/chainlight_io) 
+1st place: [ChainLight](https://twitter.com/chainlight_io)
+
 2nd place: rbtree fan club
+
 3rd place: LDGR
+
 4th place: baby step forward, giant step backward
+
 5th place: King of the Jungle
 
 ## Event 
