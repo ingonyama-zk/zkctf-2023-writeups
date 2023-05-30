@@ -1,5 +1,6 @@
 # ZK CTF - May '23 
-![lion-hero-square](https://github.com/ingonyama-zk/zkctf-2023-writeups/assets/122266060/60c94254-4578-4e0e-a4c4-a2a721de302a)
+
+![lion-hero-square](https://github.com/ingonyama-zk/zkctf-2023-writeups/assets/122266060/60dd5a8c-2f1b-4a10-bb5a-6e4f61bd3f46)
 
 ## Winners
 1st place: [ChainLight](https://twitter.com/chainlight_io)
