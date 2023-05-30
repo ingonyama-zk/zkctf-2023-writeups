@@ -18,7 +18,7 @@ Below you will find write-ups submitted by some of the participants
 
 ## Challenge Write-ups
 
- 1. [It is over 9000!](It is over 9000.md) 
+ 1. [It is over 9000!](It is over 9000!.md) 
  2. [Safe bn254](safe_bn254.md)
  3. [Zokclub](zokclub.md)
  4. [Zok club - as it should've been](Zokclub - As it should've been.md) 
