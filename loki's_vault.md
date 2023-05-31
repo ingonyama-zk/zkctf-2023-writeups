@@ -6,6 +6,8 @@
 > Read more: https://github.com/ingonyama-zk/breaking_into_vault_of_loki
 
 ## Solution 
+* By [Vladimir]
+* By [Ayush Shukla]
 ### By [Ayush Shukla](https://hackmd.io/@shuklaayush)
 
 This challenge was one of the toughest and needed a good understanding of how KZG commitments work. We are provided with the following polynomial
