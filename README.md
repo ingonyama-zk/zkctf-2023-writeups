@@ -3,15 +3,22 @@
 ![lion-hero-square](https://github.com/ingonyama-zk/zkctf-2023-writeups/assets/122266060/60dd5a8c-2f1b-4a10-bb5a-6e4f61bd3f46)
 
 ## Winners
-1st place: [ChainLight](https://twitter.com/chainlight_io)
+**1st place:** [ChainLight](https://twitter.com/chainlight_io)
 
-2nd place: rbtree fan club
+**2nd place:** rbtree fan club
 
-3rd place: LDGR
+**3rd place:** LDGR
 
-4th place: baby step forward, giant step backward
+**4th place:** baby step forward, giant step backward
 
-5th place: King of the Jungle
+**5th place:** King of the Jungle
+
+**Write-up winners:** 
+
+Vladimir from [zkbob](https://twitter.com/zkBob_)
+
+Ayush from King of the Jungle
+
 
 ## Event 
 For the full event details and summary click [here](https://medium.com/@ingonyama/recap-zk-capture-the-flag-cdf3ffef8186)
