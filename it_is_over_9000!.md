@@ -24,7 +24,7 @@
 > https://github.com/ingonyama-zk/ctf-over-9000
 
 ## Solution 
-* By [Vladimir](https://github.com/ingonyama-zk/zkctf-2023-writeups/blob/main/loki's_vault.md#by-vladimir)
+* By [Vladimir](https://github.com/ingonyama-zk/zkctf-2023-writeups/blob/main/it_is_over_9000!.md#by-vladimir)
 * By [Ayush Shukla](https://github.com/ingonyama-zk/zkctf-2023-writeups/blob/main/it_is_over_9000!.md#by-ayush-shukla)
 
 ---
