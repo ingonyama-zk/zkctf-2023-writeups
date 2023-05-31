@@ -15,9 +15,8 @@
 
 **Write-up winners:** 
 
-Vladimir from [zkbob](https://twitter.com/zkBob_) 
-
-Ayush from King of the Jungle - Full write-up [here](https://hackmd.io/@shuklaayush/SkWizdyBh)
+* Ayush from King of the Jungle - Full write-up [here](https://hackmd.io/@shuklaayush/SkWizdyBh)
+* Vladimir from [zkbob](https://twitter.com/zkBob_) - Full write-ups here: [Loki's Vault](https://hackmd.io/@mNhjpIg3TJ2CXuL_n4g55g/B1DwUA1r2) & [It is over 9000!](https://hackmd.io/XB0gc_8eTNOxq8d-CSU52Q?utm_source=preview-mode&utm_medium=rec)
 
 
 ## Event 
