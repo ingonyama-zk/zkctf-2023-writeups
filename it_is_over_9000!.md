@@ -25,7 +25,7 @@
 
 ## Solution 
 * By [Vladimir](https://github.com/ingonyama-zk/zkctf-2023-writeups/blob/main/loki's_vault.md#by-vladimir)
-* By [Ayush Shukla](https://github.com/ingonyama-zk/zkctf-2023-writeups/blob/main/loki's_vault.md#by-ayush-shukla)
+* By [Ayush Shukla](https://github.com/ingonyama-zk/zkctf-2023-writeups/blob/main/it_is_over_9000!.md#by-ayush-shukla)
 
 ---
 
