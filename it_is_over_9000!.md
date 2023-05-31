@@ -24,6 +24,11 @@
 > https://github.com/ingonyama-zk/ctf-over-9000
 
 ## Solution 
+* By [Vladimir](https://github.com/ingonyama-zk/zkctf-2023-writeups/blob/main/loki's_vault.md#by-vladimir)
+* By [Ayush Shukla](https://github.com/ingonyama-zk/zkctf-2023-writeups/blob/main/loki's_vault.md#by-ayush-shukla)
+
+---
+
 ### By [Ayush Shukla](https://hackmd.io/@shuklaayush)
 
 The key to solving this challenge is understanding how batching works in KZG commitments. Looking into the code reveals two important functions, `open_batch` and `verify_batch`. The crucial insight comes from realizing that the `upsilon` parameter has to be random. Otherwise, it can be used to make the verification ignore some of the polynomials.
