@@ -15,9 +15,9 @@
 
 **Write-up winners:** 
 
-Vladimir from [zkbob](https://twitter.com/zkBob_)
+Vladimir from [zkbob](https://twitter.com/zkBob_) 
 
-Ayush from King of the Jungle
+Ayush from King of the Jungle - Full write-up [here](https://hackmd.io/@shuklaayush/SkWizdyBh)
 
 
 ## Event 
