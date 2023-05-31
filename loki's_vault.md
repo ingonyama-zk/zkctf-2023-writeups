@@ -6,7 +6,7 @@
 > Read more: https://github.com/ingonyama-zk/breaking_into_vault_of_loki
 
 ## Solution 
-* By [Vladimir]
+* By [Vladimir](https://github.com/ingonyama-zk/zkctf-2023-writeups/blob/main/loki's_vault.md#by-vladimir)
 * By [Ayush Shukla]
 ### By [Ayush Shukla](https://hackmd.io/@shuklaayush)
 
