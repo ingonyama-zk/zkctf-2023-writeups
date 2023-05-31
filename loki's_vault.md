@@ -8,6 +8,8 @@
 ## Solution 
 * By [Vladimir](https://github.com/ingonyama-zk/zkctf-2023-writeups/blob/main/loki's_vault.md#by-vladimir)
 * By [Ayush Shukla](https://github.com/ingonyama-zk/zkctf-2023-writeups/blob/main/loki's_vault.md#by-ayush-shukla)
+
+---
 ### By [Ayush Shukla](https://hackmd.io/@shuklaayush)
 
 This challenge was one of the toughest and needed a good understanding of how KZG commitments work. We are provided with the following polynomial
