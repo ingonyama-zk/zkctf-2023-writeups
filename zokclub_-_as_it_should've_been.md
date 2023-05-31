@@ -1,6 +1,6 @@
 # ZokClub - As it should've been
 
-# Challenge
+## Challenge
 > After our last infiltration ZokClub layed low and moved to another website: http://52.7.211.188:4000/
 > 
 > Crypto Police have discovered another former meeting place of a secret society. The police once again found nothing except for a single note.
