@@ -1,6 +1,7 @@
 # ZK CTF - May '23 
 
-![lion-hero-square](https://github.com/ingonyama-zk/zkctf-2023-writeups/assets/122266060/d55fbca5-ae09-44fc-a60f-20dc6519755c)
+![lion-hero-square (1)](https://github.com/ingonyama-zk/zkctf-2023-writeups/assets/122266060/b6b3a95a-8046-42f5-a414-d72f9bacd613)
+
 
 
 ## Event 
