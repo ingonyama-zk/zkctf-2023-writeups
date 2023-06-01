@@ -25,6 +25,11 @@ Below you will find write-ups submitted by some of the participants
  13. [Umculo](umculo.md)
  
  
+## Contributions
+
+Some challenges are still missing a proper write-up and for some there is more than one solution. Feel Free to add your write up to the list! 
+
+ 
 ## Winners
 **1st place:** [ChainLight](https://twitter.com/chainlight_io)
 
